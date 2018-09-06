@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Intro to Data Vis"
 title_separator          : "-"
 name                     : "Spencer Szabaday"
 description              : "An adventure in academia."
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Spencer Szabaday"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "An Adventure in Academia."
+  location         : "New Jersey"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
