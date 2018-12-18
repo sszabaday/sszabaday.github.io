@@ -11,6 +11,12 @@ published:  true
 
   Hello! My name is Spencer Szabaday and I will be showing you a splendid server of statistics. These statistics had to do with the ranked player statistics of those who play "Player Unknown's Battlegrounds." Most people simply refer to the game as PUBG (Pub-Gee), so that is how it shall be labeled as from this point on. 
  
- ## Research Question
+## Research Question
  
- My research question is simple: **Is there a correlation between how many games someone has played and how often they are within the "Top 10"?** The "Top 10" is defined as one of the last ten surviving players after a 100 player deathmatch, which can be extrapolated as meaning you were one of the ten best players in that match.
+ My research question is simple: **Is there a correlation between how many matches one has played and how often they are within the "Top 10"?** The "Top 10" is defined as one of the last ten surviving players after a 100 player deathmatch, which can be extrapolated as meaning you were one of the ten best players in that match.
+ 
+## Dataset
+
+  The source from my dataset is from [JustinMoore on Kaggle.](https://www.kaggle.com/lazyjustin/pubgplayerstats) This dataset will be useful in finding an answern to my research question simply because it affords me absurdly huge sample from which i can randomly select my sample. 
+  The there are 6 data fields that are particularly important, and they have two parts: either 'Solo', 'Duo', or 'Squad', and then either 'Rounds' or 'Top 10s'. The 'Solo', 'Duo', and 'Squad' section refer to what size group you have on your team (as well as what size groups of other players you'll be fighting) in the battle royale match, either just you, a partner, or three parters; the other section of either 'Rounds' or 'Top 10s' referres to either the data consisting of how many matches that player has participated in, or how many times that player has been one of the last ten players alive. When all mixed and matched together, this allows us to see trends based upon time played and 'wins' between the different game modes.
+  For this presentation, I will be utilizing Tableau, a visual data software that allows me to create charts and visualize data like never before. Other programs such as Excel simply do not offer the level of customization that I crave.
