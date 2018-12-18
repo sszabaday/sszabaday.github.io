@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Spencer Szabaday"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/Bio-Pic.png
   bio              : "An Adventure in Academia."
   location         : "New Jersey"
   email            : szabadas@go.stockton.edu
