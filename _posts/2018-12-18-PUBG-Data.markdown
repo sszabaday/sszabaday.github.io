@@ -23,8 +23,21 @@ published:  true
 
 ## Tableau Methodology
 
-  When it came to the workflow of my project, it was not so much trouble: importing, modifying, and applying my dataset was a breeze. I added a player filter to my charts in order to allows the viewer to add or drop specific players and their data individually. One annoying limitation of the dataset was that the only real way to help identify the player data was with their screennames, which cause plenty of unnecessary clutter and severely limited my possible chart styles. 
+  When it came to the workflow of my project, it was not so much trouble: importing, modifying, and applying my dataset was a breeze. I added a player filter to my charts in order to allows the viewer to add or drop specific players and their data individually. One annoying limitation of the dataset was that the only real way to help identify the player data was with their screennames, which cause plenty of unnecessary clutter and severely limited my possible chart styles.
   
-## Tableau
+### Visualization Methodology
+  
+  In order to allow viewers to quickly gather and formulate my point for themelves, I grayed out the more sdtandard line graphs, while making the more interesting and anomolous data pop with the color blue. The visualizations tell a cohesive story by first introducingt the 'normal' expected chart flows, but at the end, they are introduced to the differences and then it is highlighted further through a shared dashboard, where the anomoly is larger and more eye catching. 
+### Tableau
 
   [Here is access to the Dashboard itself.](/assets/TimeSkillCorrelation[1])
+  
+## Conclusion
+
+  In conclusion, **this result answers my research question in the negative that while in Solo or Squad team instances there is a correlation between time played and success, in the Duo setup there is much more variation between player groups.** Through this data, I can infer that the reason it would allow for much more variation is the dynamics of Duo queue; if you lose your partner, then you are most likely always fighting a 2 vs 1 battle. In Solo, it is everyone for themselves and when you die you lose; in Squads, the better, more cooordinated teams of four can either outmaneuver the better teams or outgun the worse ones.
+  
+## Appendix
+
+  [JustinMoore's Kaggle Dataset](https://www.kaggle.com/lazyjustin/pubgplayerstats)
+  
+   
