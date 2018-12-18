@@ -24,3 +24,7 @@ published:  true
 ## Tableau Methodology
 
   When it came to the workflow of my project, it was not so much trouble: importing, modifying, and applying my dataset was a breeze. I added a player filter to my charts in order to allows the viewer to add or drop specific players and their data individually. One annoying limitation of the dataset was that the only real way to help identify the player data was with their screennames, which cause plenty of unnecessary clutter and severely limited my possible chart styles. 
+  
+## Tableau
+
+  [Here is access to the Dashboard itself.](/assets/TimeSkillCorrelation[1])
