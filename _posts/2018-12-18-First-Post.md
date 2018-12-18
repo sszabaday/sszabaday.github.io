@@ -1,5 +1,5 @@
 ---
-title: Spencer's Rad New Site
+title: Firstest Post
 date: 2018-12-18
 author_profile: true
 excerpt: Just a student trying his best.
